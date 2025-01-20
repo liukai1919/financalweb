@@ -1,0 +1,11 @@
+[theme]
+base = "light"
+
+[browser]
+gatherUsageStats = false
+
+[ui]
+hideSidebarNav = true
+
+[client]
+showSidebarNavigation = false 
